@@ -1,10 +1,10 @@
-Olá, eu sou Iago Manoel, tenho 13 anos moro no Brasil
- e estudo programação e hacking(segurança da informação)
 
-Principal linguagem que utilizo: python.
-Libs:
-•kivy
-•socket
+Hello, I'm Iago Manoel, I'm 13 years old, I live in Brazil
+ and I study programming and hacking (information security)
+
+Main language I use: python.
+
+Libs: kivy and socket
 
 
 <!---
